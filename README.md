@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libbmp_vyu_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/aelobdog/bmp-vyu.git (revision: `5e9ca1a76dc2488414765028bf73942d1f1f49d7`)
+* git repository: https://github.com/aelobdog/bmp-vyu.git (revision: `1b129d4c158e1c0291c6a4ab7580e7aa5153d694`)
 
 ## Platforms
 
