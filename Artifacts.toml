@@ -1,0 +1,9 @@
+[[libbmp_vyu]]
+arch = "x86_64"
+git-tree-sha1 = "3a2be10496b30d5c5ade15692e97deb2e3422523"
+libc = "glibc"
+os = "linux"
+
+    [[libbmp_vyu.download]]
+    sha256 = "f0ae1978df6d6c00c10641886234152e3079cb176b1ded8db0363f37953b0fd6"
+    url = "https://github.com/aelobdog/bmp_vyu_jll.jl/releases/download/libbmp_vyu-v0.1.0+0/libbmp_vyu.v0.1.0.x86_64-linux-gnu.tar.gz"
